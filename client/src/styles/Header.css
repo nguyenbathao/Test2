@@ -1,0 +1,12 @@
+strong {
+  background: #f16018;
+  color: #fff;
+  display: inline-block;
+  border-radius: 30px;
+  padding: 6px;
+  font-size: 83%;
+  line-height: 1;
+  position: relative;
+  top: -1px;
+  left: 2px;
+}
